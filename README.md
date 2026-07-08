@@ -207,8 +207,8 @@ Impact: Enables users—especially those who are new to a place—to quickly und
 
 - LinkedIn: Sai Priyanka Ponakampalli
 - Email: saipriyankaponakampalli@gmail.com
-- Phone: 7569274762
+- Phone: +917569274762
 
 ---
 
-> **"Building software that creates impact, not just applications."**
+> **"Where technical skills meet leadership and public speaking."**
