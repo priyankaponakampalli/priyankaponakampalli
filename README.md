@@ -1,36 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Hi%20There!%20I'm%20Priyanka%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Sai%20Priyanka%20Ponakampalli&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+%7C+DSA+%7C+Machine+Learning;Cloud+%26+AI-driven+Solutions+Builder;CSE+Core+%40+VIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+DSA+%7C+Machine+Learning;Cloud+%26+AI-driven+Solutions+Builder;B.Tech+CSE+Core+%40+VIT" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-priyanka-ponakampalli-861216323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saipriyankaponakampalli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/priyankaponakampalli"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=priyankaponakampalli&style=for-the-badge&color=blueviolet" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/priyankaponakampalli?style=for-the-badge&color=blue&label=Followers"/>
 </p>
 
 ---
 
-### 📌 About Me
+### About Me
 
-```yaml
-🎓 Education:     B.Tech CSE Core @ Vellore Institute of Technology (2023 - 2027), CGPA 8.61
-🌱 Currently:     Building PavithraMithra — a farmer-to-consumer app with QR-based farmer tracing & ratings
-📱 Also Working:  Mobile App Development @ Chitralai Startup
-🔭 Exploring:     Deep Learning architectures for real-world classification problems
-💡 Interests:     AI/ML, Cloud Computing, DSA, Full-Stack Development
-🏆 Fun Fact:      Built a complete game in 16 hours to win a hackathon!
-📫 Reach Me:      saipriyankaponakampalli@gmail.com
-```
+I am a B.Tech Computer Science (Core) student at Vellore Institute of Technology (2023–2027, CGPA 8.61/10), with a strong foundation in Java, Data Structures & Algorithms, Machine Learning, and Cloud Technologies.
+
+I am currently working as a Software Engineer at **Rythu Sadhikara Samstha**, an Andhra Pradesh Government initiative, where I am part of the team building **PavithraMithra** — a cross-platform mobile application designed to strengthen the natural farming ecosystem. The platform connects farmers directly with aggregators, buyers, and consumers on a single marketplace, removing unnecessary middlemen from the supply chain. My work involves implementing new user-facing features, integrating backend services that keep data consistent across farmer, aggregator, and buyer roles, and improving overall app performance and usability for a large, largely non-technical farmer base.
+
+Beyond this role, I have worked on mobile app development at a startup and contributed to real-world AI/ML research projects, alongside actively participating in hackathons, technical leadership roles, and cloud certifications.
+
+I am passionate about applying software engineering and machine learning to solve practical, real-world problems — particularly ones with social and economic impact.
 
 ---
 
-### 🛠️ Tech Stack
+### Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,react,html,css,mongodb,aws,git,vscode,figma,idea&perline=8" />
@@ -40,52 +37,86 @@
 
 | Category | Skills |
 |---|---|
-| **Languages** | Java, C, C++, SQL, R |
+| **Programming Languages** | Java, C, C++, SQL, R |
 | **Frameworks** | ReactJS, HTML, CSS |
 | **Databases & Cloud** | SQL, MongoDB, AWS, NoSQL |
-| **Tools** | Git/GitHub, VS Code, IntelliJ IDEA, Cisco Packet Tracer, Canva, Figma |
-| **Coursework** | DSA, DBMS, Operating Systems, Computer Networks, AI/ML, DAA, Software Engineering |
+| **Developer Tools** | Git/GitHub, VS Code, IntelliJ IDEA, Cisco Packet Tracer, Canva, Figma |
+| **Relevant Coursework** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI/ML, Design & Analysis of Algorithms, Software Engineering |
 
 </div>
 
 ---
 
-### 💼 Experience
+### Professional Experience
+
+**Software Engineer — Rythu Sadhikara Samstha (Andhra Pradesh Government)**
+`June 2026 – August 2026`
+
+Working on **PavithraMithra**, a cross-platform mobile application that connects natural farmers directly with aggregators, buyers, and consumers on a single platform, streamlining the natural farming supply chain.
+- Implementing new user-facing features across the application, from interface design to functional logic
+- Integrating backend services to ensure reliable, real-time data flow between farmers, aggregators, and buyers
+- Improving application performance and usability, with attention to accessibility for a largely non-technical farmer user base
+- Collaborating with cross-functional teams to translate real farming workflows into practical app functionality
+
+**Mobile App Developer — Chitralai (Startup)**
+`June 2026 – September 2026`
+
+Chitralai is building a mobile application that helps users automatically find and retrieve only the photos of themselves from large shared photo collections. Users simply upload a Google Drive link containing a bulk set of event or group photos, along with a selfie, and the app uses facial recognition to identify and return only the images that contain that specific person — eliminating the need to manually scroll through hundreds of shared photos.
+- Contributing to core mobile application development and feature implementation
+- Working on the user flow connecting Drive link uploads, selfie capture, and filtered image retrieval
+- Collaborating with the team to refine functionality and usability in a fast-paced startup environment
+
+**Marketing Agent — OnlyClick**
+`February 2026 – April 2026`
+
+OnlyClick is a startup platform that provides on-demand home services, connecting customers with service providers for everyday household needs.
+- Contributed to marketing campaigns and brand outreach initiatives
+- Supported customer engagement efforts to help grow the platform's user base
+- Gained practical exposure to startup operations and go-to-market strategy outside of core engineering work
+
+---
+
+### Projects
+
+**Gemstone Classification Using Deep Learning**
+`Python` `TensorFlow` `CNN` `Xception` `ResNet50V2` — 2026
+
+A deep learning-based image classification system built to identify **87 distinct gemstone categories** from images, aimed at supporting applications in the gemstone and jewelry industry where manual identification is slow and error-prone.
+- Designed and trained three separate architectures — a custom CNN, Xception, and ResNet50V2 — using transfer learning and fine-tuning to adapt pretrained models to the gemstone dataset
+- Benchmarked all three models against each other to evaluate trade-offs between accuracy, training efficiency, and generalization
+- Currently preparing a research paper presenting a comparative performance analysis of these architectures, intended to contribute reusable findings for future fine-grained image classification work
+
+**Vegetable Price Prediction Platform**
+`Python` `Machine Learning` `Flask` `APIs` — 2026
+
+A location-based web platform being developed to help everyday consumers and small buyers make informed purchasing decisions by predicting vegetable prices ahead of time.
+- Applying machine learning techniques to historical and current market data to estimate upcoming price trends for different vegetables
+- Building a Flask-based backend with APIs to serve real-time, location-specific pricing insights to end users
+- Designed to reduce price uncertainty for consumers and help them plan purchases around expected market fluctuations
+
+---
+
+### Certifications & Achievements
 
 <table>
 <tr>
-<td width="100%">
-
-**🌾 Software Engineer** — Rythu Sadhikara Samstha (AP Govt) `Jun 2026 – Aug 2026`
-
-Building **PavithraMithra**, a cross-platform mobile app that connects natural farmers directly with consumers, aggregators, and sellers — cutting out middlemen and bringing transparency to the farm-to-table journey.
-- Designing and implementing a **unique QR code system for every farmer**, letting consumers scan a product and instantly see exactly which farmer grew it — turning anonymous produce into a traceable, trust-backed story
-- Building a **ratings & feedback module** so consumers can review farmers directly, creating accountability and helping honest, high-quality farmers stand out and build a loyal customer base
-- Implementing core app features end-to-end (UI + backend integration) that power this farmer-to-consumer marketplace at scale
-- Working on performance and usability improvements so the app stays fast and simple for a largely non-technical farmer user base
-- Contributing to a govt-backed initiative with real social impact — helping farmers earn fairer prices while giving consumers verified, transparent access to their food's origin
-
-</td>
+<th width="50%">Certifications</th>
+<th width="50%">Achievements & Leadership</th>
 </tr>
 <tr>
-<td width="100%">
+<td valign="top">
 
-**📱 Mobile App Developer** — Chitralai Startup `Jun 2026 – Sep 2026`
-
-Working on mobile application development and feature implementation for the startup's core product.
-- Contributing to app feature builds in a fast-paced startup environment
-- Collaborating with the team on implementation and iteration cycles
+- Oracle Cloud Infrastructure 2026 Certified Generative AI Professional
+- AWS Academy Cloud Foundations
+- AWS Academy Architecting
 
 </td>
-</tr>
-<tr>
-<td width="100%">
+<td valign="top">
 
-**📣 Marketing Agent** — OnlyClick `Feb 2026 – Apr 2026`
-
-Contributed to marketing campaigns, brand outreach, and customer engagement initiatives.
-- Supported brand outreach efforts and customer engagement strategy
-- Gained cross-functional experience beyond core engineering work
+- Represented VIT at Smart India Hackathon (SIH)
+- Won a game development hackathon by building a complete game in 16 hours
+- Lead, Computer Society of India (VTalks)
+- Co-Lead, Electoral Society — organized technical events, youth parliaments, and debates
 
 </td>
 </tr>
@@ -93,36 +124,7 @@ Contributed to marketing campaigns, brand outreach, and customer engagement init
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**💎 Gemstone Classification Using Deep Learning**
-`Python` `TensorFlow` `CNN` `Xception` `ResNet50V2`
-
-- Built a deep learning system classifying **87 gemstone categories**
-- Compared CNN, Xception & ResNet50V2 using transfer learning
-- Preparing a research paper on comparative performance analysis
-
-</td>
-<td width="50%">
-
-**🥕 Vegetable Price Prediction Platform**
-`Python` `Machine Learning` `Flask` `APIs`
-
-- Location-based platform for price prediction & market analysis
-- Applies ML techniques to estimate prices from market data
-- Delivers real-time pricing insights for smarter purchasing
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyankaponakampalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -139,7 +141,7 @@ Contributed to marketing campaigns, brand outreach, and customer engagement init
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankaponakampalli&theme=react-dark&hide_border=true"/>
@@ -152,38 +154,11 @@ Contributed to marketing campaigns, brand outreach, and customer engagement init
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
-🏢 Software Engineer @ Rythu Sadhikara Samstha (AP Govt) — building PavithraMithra's QR-based farmer traceability & ratings system
-📱 Mobile App Developer @ Chitralai Startup
-📜 Certifications: OCI 2026 Generative AI Professional | AWS Academy Cloud Foundations & Architecting
-🏅 Represented VIT at Smart India Hackathon (SIH)
-👥 CSI (VTalks) Lead & Electoral Society Co-Lead
-```
-
----
-
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-priyanka-ponakampalli-861216323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:saipriyankaponakampalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" width="100%"/>
-
-<!--
-**priyankaponakampalli/priyankaponakampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
