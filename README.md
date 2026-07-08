@@ -1,110 +1,101 @@
-<h1 align="center">Hi 👋, I'm Sai Priyanka Ponakampalli</h1>
-<h3 align="center">Aspiring Software Engineer | Java & DSA | Machine Learning | Cloud</h3>
+# Sai Priyanka Ponakampalli
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saipriyankaponakampalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Aspiring Software Engineer | Java & Data Structures | Machine Learning | Cloud Computing
+
+[LinkedIn](https://www.linkedin.com/in/sai-priyanka-ponakampalli-861216323/) · [Email](mailto:saipriyankaponakampalli@gmail.com) · +91 7569274762
 
 ---
 
-### 🚀 About Me
+## About
 
-- 🎓 B.Tech CSE Core @ **Vellore Institute of Technology** (CGPA: 8.61/10), 2023 – 2027
-- 💻 Currently working as **Software Engineer** at **Rythu Sadhikara Samstha (AP Govt)**, building *PavithraMithra* — a cross-platform app connecting farmers, aggregators, buyers, and sellers
-- 📱 Also working as **Mobile App Developer** at **Chitralai Startup**
-- 🧠 Interested in **Machine Learning, Deep Learning, and AI-driven solutions**
-- ☁️ Certified in **Oracle Cloud Infrastructure Generative AI** and **AWS Academy Cloud Foundations & Architecting**
-- 🏆 Represented VIT at **Smart India Hackathon (SIH)**; won a game-dev hackathon by building a full game in 16 hours
-- 👥 Lead, Computer Society of India (VTalks) & Co-Lead, Electoral Society
+Computer Science undergraduate at Vellore Institute of Technology (CGPA: 8.61/10), focused on building AI-driven solutions and scalable software systems. Experienced across mobile app development, machine learning research, and cloud technologies, with a strong foundation in data structures, algorithms, databases, and operating systems.
+
+Currently building production features for a government-backed agri-tech platform while contributing to a mobile app startup on the side.
 
 ---
 
-### 🛠️ Tech Stack
+## Education
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Frameworks & Frontend**
-<p>
-  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=nosql&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+| Institution | Degree | Duration | Score |
+|---|---|---|---|
+| Vellore Institute of Technology | B.Tech, CSE Core | Sep 2023 – Jun 2027 | CGPA 8.61/10 |
+| Narayana Junior College, Hyderabad | MPC | Jun 2021 – Jun 2023 | CGPA 9.53/10 |
+| ST Peter's Model School, Hyderabad | CBSE | Jun 2020 – Jun 2021 | CGPA 9.36/10 |
 
 ---
 
-### 📌 Featured Projects
+## Experience
 
-**[Gemstone Classification Using Deep Learning](https://github.com/priyankaponakampalli/Gemstone-Classification-Using-Deep-Learning)**
-Deep learning system classifying 87 gemstone categories, comparing CNN, Xception, and ResNet50V2 with transfer learning and fine-tuning. Research paper on comparative performance in progress.
+**Software Engineer — Rythu Sadhikara Samstha (AP Govt)** | Jun 2026 – Aug 2026
+Building PavithraMithra, a cross-platform mobile application streamlining the natural farming ecosystem by connecting farmers, aggregators, buyers, and sellers on a single platform. Responsible for implementing new features, integrating backend services, and improving application performance and usability.
+
+**Mobile App Developer — Chitralai Startup** | Jun 2026 – Sep 2026
+Working on mobile application development and feature implementation.
+
+**Marketing Agent — OnlyClick** | Feb 2026 – Apr 2026
+Contributed to marketing campaigns, brand outreach, and customer engagement initiatives.
+
+---
+
+## Projects
+
+### Gemstone Classification Using Deep Learning
 `Python` `TensorFlow` `CNN` `Xception` `ResNet50V2`
 
-**Vegetable Price Prediction Platform**
-Location-based platform for vegetable price prediction and market analysis using ML models on market data, giving users real-time pricing insights.
+Deep learning-based classification system covering 87 gemstone categories. Implemented and compared CNN, Xception, and ResNet50V2 architectures using transfer learning and fine-tuning. Currently preparing a research paper on comparative performance analysis of the architectures used.
+
+[Repository](https://github.com/priyankaponakampalli/Gemstone-Classification-Using-Deep-Learning)
+
+### Vegetable Price Prediction Platform
 `Python` `Machine Learning` `Flask` `APIs`
-> _Repo link to be added once pushed_
 
-**PavithraMithra**
-Cross-platform app for Rythu Sadhikara Samstha (AP Govt) connecting farmers, aggregators, buyers, and sellers across the natural farming ecosystem.
-> _Government project — private repo_
+Location-based platform for vegetable price prediction and market analysis. Applies machine learning techniques to estimate prices from market data and provides users with real-time pricing insights to support informed purchasing decisions.
 
----
+Repository link to be added once pushed.
 
-### 📊 GitHub Stats
+### PavithraMithra
+`Cross-platform Mobile App`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyankaponakampalli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaponakampalli&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaponakampalli&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyankaponakampalli&theme=tokyonight&row=1&column=6" />
-</p>
-
-<!--START_SECTION:activity-->
-<!-- This section fills automatically once the workflow below runs -->
-<!--END_SECTION:activity-->
+Government-backed platform connecting farmers, aggregators, buyers, and sellers across the natural farming ecosystem. Private repository (government project).
 
 ---
 
-### 🏅 Certifications
+## Skills
+
+**Languages:** Java, C, C++, SQL, R
+**Frameworks:** ReactJS, HTML, CSS
+**Databases & Cloud:** SQL, MongoDB, AWS, NoSQL
+**Developer Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Cisco Packet Tracer, Figma, Canva
+**Coursework:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, AI/ML, Design and Analysis of Algorithms, Software Engineering
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyankaponakampalli&show_icons=true&theme=default&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaponakampalli&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaponakampalli&theme=default" />
+</p>
+
+---
+
+## Certifications
+
 - Oracle Cloud Infrastructure 2026 Certified Generative AI Professional
-- AWS Academy Cloud Foundations & Architecting
+- AWS Academy Cloud Foundations, Architecting
 
-### 🎖️ Achievements
-- Represented VIT in Smart India Hackathon (SIH)
-- Won a game development hackathon — built a complete game in 16 hours
-- Lead, Computer Society of India (VTalks); Co-Lead, Electoral Society
+## Achievements
+
+- Represented VIT at Smart India Hackathon (SIH)
+- Won a game development hackathon, building a complete game in 16 hours
+- Lead, Computer Society of India (VTalks); Co-Lead, Electoral Society — organized technical events, participated in youth parliaments and debates, and led student participation initiatives
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ this profile if you'd like to see more.</i></p>
+## Contact
+
+Reach out at saipriyankaponakampalli@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/sai-priyanka-ponakampalli-861216323/).
