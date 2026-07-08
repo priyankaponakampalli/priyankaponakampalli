@@ -1,214 +1,147 @@
-# Hi, I'm Sai Priyanka Ponakampalli 👋
 
-::: {align="center"}
-## Software Engineer • Mobile App Developer • AI Enthusiast
+<!-- Replace YOUR_USERNAME and YOUR_LINKEDIN -->
 
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Building+Software+That+Creates+Real+Impact;Government+Projects+%7C+Startups+%7C+AI;Java+Developer+%7C+Frappe+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sai%20Priyanka%20Ponakampalli&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descAlignY=68"/>
+</p>
 
-> **Replace this section with your custom banner later (recommended
-> size: 1500 × 500).**\
-> **Banner Text:**\
-> **Sai Priyanka Ponakampalli**\
-> *Building Software • AI • Mobile Apps • Enterprise Solutions*
-:::
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Software+That+Creates+Real+Impact;Government+Projects+%7C+AI+%7C+Startups;Java+Developer+%7C+Frappe+Learner;Always+Learning+Something+New"/>
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
+<a href="https://github.com/priyankaponakampalli"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/sai-priyanka-ponakampalli-861216323/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:saipriyankaponakampalli@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 # About Me
 
-I'm **Sai Priyanka**, a Computer Science undergraduate at **VIT-AP
-University** passionate about building software that solves meaningful
-real-world problems.
+I'm **Sai Priyanka Ponakampalli**, a Computer Science undergraduate at **VIT-AP University** passionate about building software that solves meaningful real-world problems.
 
-My journey has taken me from contributing to a **Government of Andhra
-Pradesh** application to working with startups developing AI-powered
-products and digital service platforms. I enjoy transforming ideas into
-practical, user-centric applications while continuously improving my
-technical and problem-solving abilities.
+I've worked with a **Government of Andhra Pradesh initiative** and multiple startups, contributing to products in agriculture, AI-powered image search, and home services. I enjoy taking ideas from concept to deployment while continuously learning backend development, enterprise software, and AI.
 
-Beyond software development, I'm an active **public speaker and student
-leader**. I've represented my university in debates, youth parliaments,
-hackathons, technical events, and NGO outreach activities. These
-experiences have strengthened my communication, leadership, teamwork,
-and presentation skills.
+Beyond coding, I'm an active **public speaker** who has participated in **debates, youth parliaments, technical talks, NGO initiatives, hackathons, and student leadership programs**, helping me become a confident communicator and collaborative team player.
 
-Currently learning: - Frappe Framework - ERPNext - Backend Development -
-System Design - Advanced Java - Data Structures & Algorithms
-
-------------------------------------------------------------------------
+---
 
 # Recruiter Snapshot
 
-  Category           Details
-  ------------------ -----------------------------------------------
-  Education          B.Tech CSE, VIT-AP University
-  CGPA               8.61/10
-  Looking For        Software Engineering Opportunities
-  Interests          Backend, AI, Mobile Apps, Enterprise Software
-  Current Learning   Frappe Framework & ERPNext
+| Quick Facts | |
+|---|---|
+| 🎓 Education | B.Tech CSE, VIT-AP University |
+| 📊 CGPA | 8.61 / 10 |
+| 💻 Interested In | Software Engineering • Backend • Full Stack |
+| 🌱 Currently Learning | Frappe Framework, ERPNext, System Design |
+| ☁ Cloud | AWS • Oracle Cloud |
+| 📍 Open To | Internships & Full-Time Opportunities |
 
-------------------------------------------------------------------------
+---
 
-# Professional Experience
+# Featured Experience
 
-## 🌱 PavithraMithra --- Government of Andhra Pradesh
+## 🌱 PavithraMithra — Government of Andhra Pradesh
 
-PavithraMithra is a digital platform connecting **farmers, buyers,
-sellers, and aggregators** within the natural farming ecosystem.
+A cross-platform application connecting **farmers, buyers, sellers, and aggregators** in the natural farming ecosystem.
 
 ### My Contributions
+- Developed production-ready mobile features
+- Integrated backend APIs
+- Improved application performance
+- Enhanced user experience
 
--   Developed production-ready mobile features
--   Integrated backend APIs
--   Improved performance and usability
--   Worked on scalable application modules
+### Impact
+Every farmer receives a **unique QR code** that opens their digital profile containing:
+- Ratings & Reviews
+- Farm Details
+- Product Information
+- Credibility & Trust
+- Contact Information
 
-### Highlight
+This helps buyers confidently purchase from verified farmers while promoting transparency.
 
-Every registered farmer receives a **unique QR Code**.
+---
 
-The QR profile includes: - Farmer details - Farm information - Ratings &
-Reviews - Trust & Credibility - Product details
+## 📸 Chitralai
 
-This creates transparency and helps buyers confidently connect with
-verified farmers.
+An AI-powered startup that helps users find **only their own photographs** from drives containing **10,000+ event images**.
 
-------------------------------------------------------------------------
+Instead of manually scrolling through thousands of photos, users upload a selfie and instantly retrieve every image they appear in.
 
-## 📷 Chitralai
-
-An AI-powered startup that solves a common event problem.
-
-Imagine a Google Drive with **10,000+ event photographs**.
-
-Instead of manually searching for your pictures, users upload a selfie
-and the application intelligently retrieves only the photographs in
-which they appear.
-
-This significantly reduces the time spent searching through large photo
-collections.
-
-------------------------------------------------------------------------
+---
 
 ## 🏠 OnlyClick
 
-OnlyClick is a startup that connects users with trusted home-service
-professionals.
+A startup connecting customers with trusted home-service professionals including electricians, plumbers, painters, cleaners, appliance technicians, and more.
 
-Services include: - Electricians - Plumbers - Painters - Cleaning -
-Appliance Repair - AC Services
+Worked closely with startup teams on outreach and product growth while gaining exposure to startup operations.
 
-Worked closely with startup teams on outreach and customer engagement
-while gaining exposure to product growth.
+---
 
-------------------------------------------------------------------------
-
-# Featured Projects
+# Projects
 
 ## 💎 Gemstone Classification using Deep Learning
-
-A research-oriented deep learning system capable of classifying **87
-gemstone categories**.
-
-### Highlights
-
--   CNN
--   Xception
--   ResNet50V2
--   Transfer Learning
--   Fine Tuning
--   Research Paper (In Progress)
-
-------------------------------------------------------------------------
+- Classified **87 gemstone categories**
+- CNN, Xception & ResNet50V2
+- Transfer Learning
+- Research paper in progress
 
 ## 🥬 Vegetable Price Prediction Platform
+Machine Learning platform predicting vegetable prices using historical market trends and location-based insights.
 
-A machine learning platform that predicts vegetable prices using market
-trends and location-based information.
-
-The goal is to help users make smarter purchasing decisions through
-predictive analytics.
-
-------------------------------------------------------------------------
+---
 
 # Tech Stack
 
-### Languages
+**Languages**
 
 `Java` `Python` `C` `C++` `SQL` `R`
 
-### Frameworks
+**Frameworks**
 
 `Frappe` `ERPNext` `React` `Flask` `HTML` `CSS`
 
-### Databases
+**Databases**
 
 `MariaDB` `MySQL` `MongoDB`
 
-### Cloud
-
-`AWS` `Oracle Cloud`
-
-### Tools
+**Tools**
 
 `Git` `GitHub` `VS Code` `IntelliJ IDEA` `Figma`
 
-------------------------------------------------------------------------
+---
 
-# Leadership & Public Speaking
+# Leadership & Activities
 
-Apart from technology, I actively participate in activities that
-strengthen leadership and communication.
+- CSI VTalks Lead
+- Electoral Society Co-Lead
+- Public Speaker
+- Debate Participant
+- Youth Parliament Participant
+- NGO Volunteer
+- Technical Event Host & Anchor
+- Smart India Hackathon Participant
 
--   University Debates
--   Youth Parliament
--   Public Speaking
--   Technical Event Hosting
--   NGO Outreach Activities
--   Student Leadership Programs
--   Hackathons
-
-These experiences have helped me become confident in presenting ideas,
-collaborating with teams, and leading initiatives.
-
-------------------------------------------------------------------------
-
-# Development Philosophy
-
-I enjoy building software that creates meaningful impact.
-
-Whether it's:
-
--   Giving farmers a trusted digital identity
--   Helping users instantly find their photos among thousands
--   Simplifying access to home services
--   Exploring enterprise software using Frappe
-
-I believe technology should solve practical problems and improve
-everyday experiences.
-
-------------------------------------------------------------------------
+---
 
 # GitHub Stats
 
-Replace `YOUR_USERNAME` below:
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-``` md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
-```
-
-------------------------------------------------------------------------
+---
 
 # Connect
 
--   LinkedIn: YOUR_LINKEDIN
--   Email: saipriyankaponakampalli@gmail.com
+- LinkedIn: YOUR_LINKEDIN
+- Email: saipriyankaponakampalli@gmail.com
 
-------------------------------------------------------------------------
+---
 
-> *"Building software that creates impact, not just applications."*
+> **"Building software that creates impact, not just applications."**
