@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Software+That+Creates+Real+Impact;Government+Projects+%7C+AI+%7C+Startups;Java+Developer+%7C+Frappe+Learner;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?
+  font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+Enthusiast;Government+Projects+%7C+Startup+Experience;Java+Developer+%7C+Frappe+Learner;Where+technical+skills+meet+leadership+and+public+speaking" />
 </p>
 
 <p align="center">
