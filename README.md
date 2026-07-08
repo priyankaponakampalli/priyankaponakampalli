@@ -1,257 +1,214 @@
-<div align="center">
+# Hi, I'm Sai Priyanka Ponakampalli 👋
 
-# Hi, I'm Sai Priyanka Ponakampalli
+::: {align="center"}
+## Software Engineer • Mobile App Developer • AI Enthusiast
 
-### Software Engineer | Mobile App Developer | AI Enthusiast
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Building+Software+That+Creates+Real+Impact;Government+Projects+%7C+Startups+%7C+AI;Java+Developer+%7C+Frappe+Learner+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+Software+that+Solves+Real+Problems;Java+Developer;Mobile+Application+Developer;Learning+Frappe+Framework+%26+ERPNext;AI+%7C+Machine+Learning+%7C+Backend+Development" />
+> **Replace this section with your custom banner later (recommended
+> size: 1500 × 500).**\
+> **Banner Text:**\
+> **Sai Priyanka Ponakampalli**\
+> *Building Software • AI • Mobile Apps • Enterprise Solutions*
+:::
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=flat" />
-
-</div>
-
----
+------------------------------------------------------------------------
 
 # About Me
 
-I'm a **Computer Science undergraduate at VIT-AP University** passionate about building software that creates real-world impact.
+I'm **Sai Priyanka**, a Computer Science undergraduate at **VIT-AP
+University** passionate about building software that solves meaningful
+real-world problems.
 
-Over the past year, I've worked with **government organizations** and **early-stage startups**, contributing to products in agriculture, artificial intelligence, mobile applications, and digital services.
+My journey has taken me from contributing to a **Government of Andhra
+Pradesh** application to working with startups developing AI-powered
+products and digital service platforms. I enjoy transforming ideas into
+practical, user-centric applications while continuously improving my
+technical and problem-solving abilities.
 
-I enjoy transforming ideas into practical software while continuously learning new technologies and improving my problem-solving skills.
+Beyond software development, I'm an active **public speaker and student
+leader**. I've represented my university in debates, youth parliaments,
+hackathons, technical events, and NGO outreach activities. These
+experiences have strengthened my communication, leadership, teamwork,
+and presentation skills.
 
-Currently, I'm exploring **Frappe Framework**, **ERPNext**, backend development, scalable software systems, and advanced Data Structures & Algorithms.
+Currently learning: - Frappe Framework - ERPNext - Backend Development -
+System Design - Advanced Java - Data Structures & Algorithms
 
----
+------------------------------------------------------------------------
 
 # Recruiter Snapshot
 
-| | |
-|:---|:---|
-| **Education** | B.Tech Computer Science – VIT-AP University |
-| **CGPA** | 8.61 / 10 |
-| **Current Focus** | Frappe Framework • Backend Development |
-| **Interested Roles** | Software Engineer • Backend Developer • Full Stack Developer |
-| **Languages** | Java, Python, C, C++, SQL |
-| **Cloud** | AWS • Oracle Cloud |
-| **Open To** | Software Engineering Internships & Full-Time Opportunities |
+  Category           Details
+  ------------------ -----------------------------------------------
+  Education          B.Tech CSE, VIT-AP University
+  CGPA               8.61/10
+  Looking For        Software Engineering Opportunities
+  Interests          Backend, AI, Mobile Apps, Enterprise Software
+  Current Learning   Frappe Framework & ERPNext
 
----
+------------------------------------------------------------------------
 
 # Professional Experience
 
-## Software Engineer Intern
-### Rythu Sadhikara Samstha (Government of Andhra Pradesh)
+## 🌱 PavithraMithra --- Government of Andhra Pradesh
 
-Worked on **PavithraMithra**, a cross-platform mobile application designed to digitally connect:
+PavithraMithra is a digital platform connecting **farmers, buyers,
+sellers, and aggregators** within the natural farming ecosystem.
 
-- Farmers
-- Buyers
-- Sellers
-- Aggregators
+### My Contributions
 
-### Key Contributions
+-   Developed production-ready mobile features
+-   Integrated backend APIs
+-   Improved performance and usability
+-   Worked on scalable application modules
 
-- Developed production-ready application features
-- Integrated backend APIs
-- Improved application performance
-- Worked on scalable mobile modules
+### Highlight
 
-### Impact
+Every registered farmer receives a **unique QR Code**.
 
-Every registered farmer receives a **unique QR Code** linked to their digital profile.
+The QR profile includes: - Farmer details - Farm information - Ratings &
+Reviews - Trust & Credibility - Product details
 
-The profile contains:
+This creates transparency and helps buyers confidently connect with
+verified farmers.
 
-- Farmer details
-- Farm information
-- Ratings
-- Trust score
-- Credibility
-- Product information
+------------------------------------------------------------------------
 
-This enables buyers to make informed purchasing decisions while increasing transparency within the natural farming ecosystem.
+## 📷 Chitralai
 
----
+An AI-powered startup that solves a common event problem.
 
-## Mobile App Developer
+Imagine a Google Drive with **10,000+ event photographs**.
 
-### Chitralai
+Instead of manually searching for your pictures, users upload a selfie
+and the application intelligently retrieves only the photographs in
+which they appear.
 
-Working on an AI-powered application that solves a common problem faced after events.
+This significantly reduces the time spent searching through large photo
+collections.
 
-Instead of manually browsing through **10,000+ photographs**, users simply upload their selfie and the application intelligently retrieves **only the pictures they appear in**.
+------------------------------------------------------------------------
 
-The goal is to make large event photo collections searchable within seconds.
+## 🏠 OnlyClick
 
----
+OnlyClick is a startup that connects users with trusted home-service
+professionals.
 
-## Marketing Executive
+Services include: - Electricians - Plumbers - Painters - Cleaning -
+Appliance Repair - AC Services
 
-### OnlyClick
+Worked closely with startup teams on outreach and customer engagement
+while gaining exposure to product growth.
 
-Contributed to the growth of **OnlyClick**, a startup that connects customers with trusted home-service professionals.
-
-The platform provides services such as:
-
-- Electricians
-- Plumbers
-- Painters
-- House Cleaning
-- AC Repair
-- Appliance Services
-
-Worked on marketing campaigns, customer outreach, and user engagement initiatives.
-
----
+------------------------------------------------------------------------
 
 # Featured Projects
 
-## Gemstone Classification using Deep Learning
+## 💎 Gemstone Classification using Deep Learning
 
-A research-oriented Deep Learning project capable of classifying **87 different gemstone categories**.
+A research-oriented deep learning system capable of classifying **87
+gemstone categories**.
 
 ### Highlights
 
-- CNN
-- Xception
-- ResNet50V2
-- Transfer Learning
-- Fine Tuning
-- Research Paper in Progress
+-   CNN
+-   Xception
+-   ResNet50V2
+-   Transfer Learning
+-   Fine Tuning
+-   Research Paper (In Progress)
 
----
+------------------------------------------------------------------------
 
-## Vegetable Price Prediction Platform
+## 🥬 Vegetable Price Prediction Platform
 
-A machine learning platform that predicts vegetable prices using historical market data and location-based information.
+A machine learning platform that predicts vegetable prices using market
+trends and location-based information.
 
-The platform helps users understand market trends and make informed purchasing decisions.
+The goal is to help users make smarter purchasing decisions through
+predictive analytics.
 
----
+------------------------------------------------------------------------
 
-# Technical Skills
+# Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql" />
-</p>
+`Java` `Python` `C` `C++` `SQL` `R`
 
-### Frameworks & Technologies
+### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,flask" />
-</p>
-
-**Currently Learning**
-
-- Frappe Framework
-- ERPNext
+`Frappe` `ERPNext` `React` `Flask` `HTML` `CSS`
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+`MariaDB` `MySQL` `MongoDB`
 
 ### Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
+`AWS` `Oracle Cloud`
 
-Oracle Cloud Infrastructure
+### Tools
 
-### Developer Tools
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Figma`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+------------------------------------------------------------------------
 
----
+# Leadership & Public Speaking
 
-# Currently Exploring
+Apart from technology, I actively participate in activities that
+strengthen leadership and communication.
 
-- Enterprise Application Development
-- Backend Engineering
-- REST APIs
-- System Design
-- Data Structures & Algorithms
-- Machine Learning
-- Open Source Contributions
+-   University Debates
+-   Youth Parliament
+-   Public Speaking
+-   Technical Event Hosting
+-   NGO Outreach Activities
+-   Student Leadership Programs
+-   Hackathons
 
----
+These experiences have helped me become confident in presenting ideas,
+collaborating with teams, and leading initiatives.
 
-# Leadership
+------------------------------------------------------------------------
 
-| Position | Organization |
-|:---------|:-------------|
-| Lead | CSI VTalks |
-| Co-Lead | Electoral Society |
+# Development Philosophy
 
-I enjoy public speaking, leading technical events, collaborating with teams, and mentoring fellow students.
+I enjoy building software that creates meaningful impact.
 
----
+Whether it's:
 
-# Certifications
+-   Giving farmers a trusted digital identity
+-   Helping users instantly find their photos among thousands
+-   Simplifying access to home services
+-   Exploring enterprise software using Frappe
 
-- Oracle Cloud Infrastructure 2026 Generative AI Professional
-- AWS Academy Cloud Foundations
-- AWS Academy Architecting
+I believe technology should solve practical problems and improve
+everyday experiences.
 
----
+------------------------------------------------------------------------
 
-# Achievements
+# GitHub Stats
 
-- Represented VIT at **Smart India Hackathon**
-- Winner of a **Game Development Hackathon** by building a complete game in just **16 hours**
-- Working on real-world government and startup products
+Replace `YOUR_USERNAME` below:
 
----
+``` md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
 
-# GitHub Statistics
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
-<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+------------------------------------------------------------------------
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+# Connect
 
-</div>
+-   LinkedIn: YOUR_LINKEDIN
+-   Email: saipriyankaponakampalli@gmail.com
 
----
+------------------------------------------------------------------------
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# Let's Connect
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### "Great software is built by solving meaningful problems."
-
-Thanks for visiting my profile!
-
-</div>
+> *"Building software that creates impact, not just applications."*
