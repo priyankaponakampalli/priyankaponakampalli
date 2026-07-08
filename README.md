@@ -2,7 +2,7 @@
 <!-- Replace YOUR_USERNAME and YOUR_LINKEDIN -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Sai%20Priyanka%20Ponakampalli&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Mobile%20App%20Developer%20%7C%20AI%20Enthusiast&descAlignY=68"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+Enthusiast;Government+Projects+%7C+Startup+Experience;Java+Developer+%7C+Frappe+Learner;Where+technical+skills+meet+leadership+and+public+speaking" />
 </p>
 
 <p align="center">
