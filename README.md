@@ -1,52 +1,43 @@
-<h1 align="center">Hi, I'm Sai Priyanka Ponakampalli</h1>
+<h1 align="center">Hi, I'm Sai Priyanka 👋</h1>
 
 <p align="center">
-Software Engineer • Mobile App Developer • AI Enthusiast
+Computer Science Undergraduate • Software Engineer • Mobile App Developer
 </p>
 
 ---
 
-## About Me
+I'm a Computer Science student at **VIT-AP University** who enjoys building products that solve real-world problems.
 
-I am a Computer Science undergraduate at VIT-AP University with a strong interest in software engineering, mobile application development, artificial intelligence, and scalable backend systems. I enjoy building products that solve practical problems and improve people's everyday lives.
+Over the past few months, I've had the opportunity to work with government organizations and startups, where I've contributed to applications in agriculture, AI-powered image search, and home services. I enjoy turning ideas into products that people can actually use.
 
-Over the past year, I have worked with startups and government initiatives, contributing to production-level applications used in agriculture, image search, and home services. Alongside development, I actively explore data structures & algorithms, machine learning, cloud technologies, and the Frappe Framework.
-
-Currently, I am focused on becoming a Full Stack Frappe Developer while continuously improving my problem-solving and software design skills.
+Currently, I'm exploring the **Frappe Framework**, backend development, mobile applications, and sharpening my DSA skills one problem at a time.
 
 ---
 
-## Experience
+## What I'm Working On
 
-### Software Engineer Intern — Rythu Sadhikara Samstha (Government of Andhra Pradesh)
+### PavithraMithra
+A mobile application developed for **Rythu Sadhikara Samstha (Government of Andhra Pradesh)**.
 
-Worked on **PavithraMithra**, a cross-platform application designed to connect natural farmers directly with buyers, aggregators, and sellers.
+The platform connects natural farmers directly with buyers, aggregators, and sellers. Every farmer receives a unique QR code that opens their digital profile containing ratings, farming details, credibility, and other information that helps buyers make informed decisions.
 
-Key contributions:
-- Developed new application features
-- Integrated backend APIs
-- Improved application performance
-- Worked on production-ready mobile modules
-- Helped build farmer digital profiles
-
-One of the major features of the platform is that **every registered farmer has a unique QR code** that opens their digital profile containing details such as ratings, farming information, credibility, and other relevant data, enabling buyers to make trusted purchasing decisions.
+**Tech:** Flutter • APIs • Backend Integration
 
 ---
 
-### Mobile App Developer — Chitralai
+### Chitralai
 
-Worked on building an AI-powered photo search platform.
+An AI-powered startup that helps people instantly find **only their own photos** from a shared drive containing thousands of images.
 
-The application solves a common real-world problem:
-Given a shared drive containing **thousands of images (10,000+)**, users can instantly retrieve **only the photographs in which they appear**, eliminating the need to manually browse large collections.
+Instead of scrolling through 10,000+ pictures after an event, users simply upload their selfie and retrieve every photo they're in.
 
 ---
 
-### Marketing Agent — OnlyClick
+### OnlyClick
 
-Contributed to the growth of **OnlyClick**, a home-service startup that connects customers with trusted professionals for services such as electricians, plumbers, cleaners, and other household assistance.
+A home-service startup that connects customers with trusted professionals like electricians, plumbers, cleaners, painters, and technicians.
 
-Worked on customer outreach, brand awareness, and marketing initiatives.
+I contributed to marketing initiatives while gaining experience working with an early-stage startup.
 
 ---
 
@@ -54,79 +45,59 @@ Worked on customer outreach, brand awareness, and marketing initiatives.
 
 ### Gemstone Classification using Deep Learning
 
-- Classified **87 gemstone categories**
-- Built using CNN, Xception and ResNet50V2
-- Applied Transfer Learning and Fine Tuning
-- Research paper currently under preparation
-
-**Tech Stack**
-
-Python • TensorFlow • Deep Learning • Computer Vision
+Built a deep learning system capable of classifying **87 gemstone categories** using CNN, Xception and ResNet50V2 while experimenting with transfer learning techniques.
 
 ---
 
 ### Vegetable Price Prediction Platform
 
-A location-aware platform that predicts vegetable prices using machine learning and market trends to help users make informed purchasing decisions.
-
-**Tech Stack**
-
-Python • Machine Learning • Flask • APIs
+A machine learning platform that predicts vegetable prices based on location and market trends, helping users make better purchasing decisions.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 **Languages**
 
 Java • Python • C • C++ • SQL • R
 
-**Frameworks & Technologies**
+**Frameworks**
 
-Frappe Framework • ReactJS • HTML • CSS • Flask
+Frappe • ReactJS • Flask • HTML • CSS
 
 **Databases**
 
-MariaDB • MySQL • MongoDB • NoSQL
+MariaDB • MySQL • MongoDB
 
-**Cloud**
+**Tools**
 
-AWS • Oracle Cloud
-
-**Developer Tools**
-
-Git • GitHub • VS Code • IntelliJ IDEA • Figma • Canva
+Git • GitHub • VS Code • IntelliJ IDEA • AWS • Oracle Cloud
 
 ---
 
 ## Currently Learning
 
-- Frappe Framework
-- ERPNext
+- Frappe Framework & ERPNext
 - Full Stack Development
 - Advanced Java
 - System Design
+- Machine Learning
 
 ---
 
-## Leadership
+## Beyond Coding
 
-- Lead — Computer Society of India (VTalks)
-- Co-Lead — Electoral Society
-- Organized technical events, debates, youth parliament sessions and student initiatives.
+- CSI VTalks Lead
+- Electoral Society Co-Lead
+- Smart India Hackathon Participant
+- Oracle OCI Generative AI Certified
+- AWS Cloud Foundations Certified
 
----
-
-## Achievements
-
-- Represented VIT in Smart India Hackathon
-- Winner of a Game Development Hackathon by building a complete game in 16 hours
-- Oracle Cloud Infrastructure 2026 Certified Generative AI Professional
-- AWS Academy Cloud Foundations
+I enjoy public speaking, leading student initiatives, participating in hackathons, and continuously learning new technologies.
 
 ---
 
-## Connect With Me
+## Let's Connect
 
 - LinkedIn
 - Email: saipriyankaponakampalli@gmail.com
