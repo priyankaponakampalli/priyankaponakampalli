@@ -81,13 +81,64 @@ Worked closely with startup teams on outreach and product growth while gaining e
 # Projects
 
 ## 💎 Gemstone Classification using Deep Learning
-- Classified **87 gemstone categories**
-- CNN, Xception & ResNet50V2
+
+A deep learning-based image classification system developed to accurately identify **87 different gemstone categories** from images.
+
+The project involved experimenting with multiple deep learning architectures to understand how different models perform on the same dataset and to identify the most accurate approach for gemstone classification.
+
+### Key Features
+
+- 🔍 Classifies gemstones into **87 distinct categories**
+- 🧠 Implemented and compared multiple deep learning models
+- 📈 Evaluated model performance using accuracy and other evaluation metrics
+- ⚙️ Applied Transfer Learning and Fine-Tuning techniques to improve prediction performance
+- 📊 Analysed and compared the strengths and limitations of different architectures
+- 📝 Research paper currently under preparation based on the comparative study
+
+### Models Explored
+
+- CNN
+- Xception
+- ResNet50V2
+
+### What I Learned
+
+This project gave me hands-on experience with the complete deep learning workflow, including:
+
+- Image preprocessing and dataset preparation
+- Building and training CNN models
 - Transfer Learning
-- Research paper in progress
+- Fine-Tuning pre-trained models
+- Hyperparameter tuning
+- Evaluating model performance using accuracy, precision, recall and F1-score
+- Comparing different architectures to understand why some models outperform others
+- Interpreting training and validation results to improve model performance
+
+### Impact
+
+The project demonstrates how deep learning can automate gemstone identification, reducing manual effort while improving classification accuracy. It also provided valuable insights into selecting the most suitable architecture for fine-grained image classification tasks.
 
 ## 🥬 Vegetable Price Prediction Platform
-Machine Learning platform predicting vegetable prices using historical market trends and location-based insights.
+A location-aware machine learning platform that helps users estimate vegetable prices before making a purchase.
+
+The platform collects **daily updated mandi (market) prices** from nearby wholesale markets and combines them with location-based information to provide accurate price predictions for users in their area.
+
+### Key Features
+
+- 📍 Predicts vegetable prices based on the user's current location.
+- 📊 Uses daily updated mandi price data from local markets.
+- 🤖 Machine Learning model trained to estimate market trends.
+- 🗺️ Displays prices relevant to nearby markets instead of generic national averages.
+- 📈 Helps users understand price fluctuations over time.
+- 🔄 Continuously updates predictions as new market data becomes available.
+
+### Why I Built It
+
+When people move to a new city or locality, they often don't know the fair market price of vegetables and may end up paying significantly more than the local rate.
+
+This platform helps users make informed purchasing decisions by providing estimated prices based on their location and the latest mandi data, making local markets more transparent and accessible.
+
+Impact: Enables users—especially those who are new to a place—to quickly understand local vegetable prices using real-time mandi data and machine learning, helping them make smarter purchasing decisions.
 
 ---
 
@@ -139,8 +190,9 @@ Machine Learning platform predicting vegetable prices using historical market tr
 
 # Connect
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: Sai Priyanka Ponakampalli
 - Email: saipriyankaponakampalli@gmail.com
+- Phone: 7569274762
 
 ---
 
