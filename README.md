@@ -33,19 +33,18 @@ Beyond coding, I'm an active **public speaker** who has participated in **debate
 | 📊 CGPA | 8.61 / 10 |
 | 💻 Interested In | Software Engineering • Backend • Full Stack |
 | 🌱 Currently Learning | Frappe Framework, ERPNext, System Design |
-| ☁ Cloud | AWS • Oracle Cloud |
 | 📍 Open To | Internships & Full-Time Opportunities |
 
 ---
 
 # Featured Experience
 
-## 🌱 PavithraMithra — Government of Andhra Pradesh
+## 🌱 PavithraMithra — Government of Andhra Pradesh *(Currently Working)*
 
 A cross-platform application connecting **farmers, buyers, sellers, and aggregators** in the natural farming ecosystem.
 
 ### My Contributions
-- Developed production-ready mobile features
+- Developing production-ready mobile features
 - Integrated backend APIs
 - Improved application performance
 - Enhanced user experience
@@ -61,16 +60,32 @@ Every farmer receives a **unique QR code** that opens their digital profile cont
 This helps buyers confidently purchase from verified farmers while promoting transparency.
 
 ---
+## 📸 Chitralai – Mobile App Developer *(Currently Working)*
 
-## 📸 Chitralai
+Currently working as a **Mobile App Developer** at **Chitralai**, contributing to the development and maintenance of an AI-powered photo search application.
 
-An AI-powered startup that helps users find **only their own photographs** from drives containing **10,000+ event images**.
+Chitralai enables users to upload a selfie and instantly retrieve only the photographs they appear in from event galleries containing **10,000+ images**, eliminating the need to manually search through thousands of photos.
 
-Instead of manually scrolling through thousands of photos, users upload a selfie and instantly retrieve every image they appear in.
+### My Contributions
 
----
+- Cloned and set up the project in the local development environment.
+- Built and generated APKs for testing and deployment.
+- Worked with Android Emulator and iOS Simulator to test application features.
+- Debugged application issues and fixed development-time errors.
+- Implemented new features and enhanced existing functionalities.
+- Collaborated with the team to improve application performance and user experience.
+- Integrated and tested backend APIs.
+- Participated in testing, troubleshooting, and maintaining application stability.
 
-## 🏠 OnlyClick
+### Technologies
+
+ Android Studio • Android Emulator • iOS Simulator • Git • GitHub • REST APIs
+
+### Impact
+
+Contributing to an AI-powered platform that helps users instantly find their own photographs from large event galleries, making photo discovery faster and more personalized.
+
+## 🏠 OnlyClick - Startup
 
 A startup connecting customers with trusted home-service professionals including electricians, plumbers, painters, cleaners, appliance technicians, and more.
 
@@ -118,7 +133,7 @@ This project gave me hands-on experience with the complete deep learning workflo
 
 The project demonstrates how deep learning can automate gemstone identification, reducing manual effort while improving classification accuracy. It also provided valuable insights into selecting the most suitable architecture for fine-grained image classification tasks.
 
-## 🥬 Vegetable Price Prediction Platform
+## 🥬 Vegetable Price Prediction Platform (Building)
 A location-aware machine learning platform that helps users estimate vegetable prices before making a purchase.
 
 The platform collects **daily updated mandi (market) prices** from nearby wholesale markets and combines them with location-based information to provide accurate price predictions for users in their area.
@@ -132,7 +147,7 @@ The platform collects **daily updated mandi (market) prices** from nearby wholes
 - 📈 Helps users understand price fluctuations over time.
 - 🔄 Continuously updates predictions as new market data becomes available.
 
-### Why I Built It
+### Why this
 
 When people move to a new city or locality, they often don't know the fair market price of vegetables and may end up paying significantly more than the local rate.
 
@@ -150,7 +165,7 @@ Impact: Enables users—especially those who are new to a place—to quickly und
 
 **Frameworks**
 
-`Frappe` `ERPNext` `React` `Flask` `HTML` `CSS`
+`Frappe` `ERPNext` `React` `HTML` `CSS`
 
 **Databases**
 
@@ -158,7 +173,7 @@ Impact: Enables users—especially those who are new to a place—to quickly und
 
 **Tools**
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Figma`
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` 
 
 ---
 
