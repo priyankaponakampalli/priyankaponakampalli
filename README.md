@@ -38,7 +38,7 @@ Beyond coding, I'm an active **public speaker** who has participated in **debate
 
 # Featured Experience
 
-## 🌱 PavithraMithra — Government of Andhra Pradesh *(Currently Working)*
+## 🌱 Rythu Sadhikara Samstha (PavithraMithra) — Government of Andhra Pradesh *(Currently Working)*
 
 A cross-platform application connecting **farmers, buyers, sellers, and aggregators** in the natural farming ecosystem.
 
@@ -158,26 +158,6 @@ Prices swing depending on the day, season, and market, and there's no easy basel
 
 ### Impact
 Makes local market prices transparent and accessible, especially useful for anyone new to a city who has no baseline for what's a fair price.
-
----
-
-## 🥬 Vegetable Price Prediction Platform *(Building)*
-
-A location-aware machine learning platform that helps users estimate vegetable prices before making a purchase, by combining daily mandi price data with location-based signals.
-
-### Key Features
-- 📍 Predicts vegetable prices based on the user's current location
-- 📊 Uses daily updated mandi price data from local markets
-- 🤖 ML model trained to estimate market trends
-- 🗺️ Shows prices relevant to nearby markets instead of generic national averages
-- 📈 Helps users understand price fluctuations over time
-- 🔄 Continuously updates predictions as new market data comes in
-
-### Why This
-When people move to a new city, they often don't know the fair market price of vegetables and can end up overpaying. This platform helps users make informed purchasing decisions using real-time mandi data and machine learning.
-
-### Impact
-Enables users — especially those new to a place — to quickly understand local vegetable prices and make smarter purchasing decisions.
 
 ---
 
