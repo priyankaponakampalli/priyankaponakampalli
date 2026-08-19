@@ -1,4 +1,3 @@
-
 <!-- Replace YOUR_USERNAME and YOUR_LINKEDIN -->
 
 <p align="center">
@@ -7,11 +6,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+Enthusiast;Government+Projects+%7C+Startup+Experience;Java+Developer+%7C+Frappe+Learner;Where+technical+skills+meet+leadership+and+public+speaking" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?
-  font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI+Enthusiast;Government+Projects+%7C+Startup+Experience;Java+Developer+%7C+Frappe+Learner;Where+technical+skills+meet+leadership+and+public+speaking" />
 </p>
 
 <p align="center">
@@ -24,7 +18,7 @@
 
 I'm **Sai Priyanka Ponakampalli**, a Computer Science undergraduate at **VIT-AP University** passionate about building software that solves meaningful real-world problems.
 
-I've worked with a **Government of Andhra Pradesh initiative** and multiple startups, contributing to products in agriculture, AI-powered image search, and home services. I enjoy taking ideas from concept to deployment while continuously learning backend development, enterprise software, and AI.
+I've worked with a **Government of Andhra Pradesh initiative** and multiple startups, contributing to products in agriculture and home services. I enjoy taking ideas from concept to deployment while continuously learning backend development, enterprise software, and AI.
 
 Beyond coding, I'm an active **public speaker** who has participated in **debates, youth parliaments, technical talks, NGO initiatives, hackathons, and student leadership programs**, helping me become a confident communicator and collaborative team player.
 
@@ -65,36 +59,14 @@ Every farmer receives a **unique QR code** that opens their digital profile cont
 This helps buyers confidently purchase from verified farmers while promoting transparency.
 
 ---
-## 📸 Chitralai – Mobile App Developer *(Currently Working)*
 
-Currently working as a **Mobile App Developer** at **Chitralai**, contributing to the development and maintenance of an AI-powered photo search application.
+## 🏠 OnlyClick — Startup
 
-Chitralai enables users to upload a selfie and instantly retrieve only the photographs they appear in from event galleries containing **10,000+ images**, eliminating the need to manually search through thousands of photos.
+OnlyClick is a startup building a platform that connects customers with **trusted home-service professionals** — electricians, plumbers, painters, cleaners, appliance technicians, and more — making it easy to find and book verified help for everyday household needs.
 
-### My Contributions
+I worked closely with the founding team on **outreach and product growth**, helping the platform gain early traction and onboard both service professionals and customers. This gave me a ground-level view of how a startup validates an idea, iterates on its offering, and grows from the ground up — experience that goes beyond just writing code and into understanding the product and the people it serves.
 
-- Cloned and set up the project in the local development environment.
-- Built and generated APKs for testing and deployment.
-- Worked with Android Emulator and iOS Simulator to test application features.
-- Debugged application issues and fixed development-time errors.
-- Implemented new features and enhanced existing functionalities.
-- Collaborated with the team to improve application performance and user experience.
-- Integrated and tested backend APIs.
-- Participated in testing, troubleshooting, and maintaining application stability.
-
-### Technologies
-
- Android Studio • Android Emulator • iOS Simulator • Git • GitHub • REST APIs
-
-### Impact
-
-Contributing to an AI-powered platform that helps users instantly find their own photographs from large event galleries, making photo discovery faster and more personalized.
-
-## 🏠 OnlyClick - Startup
-
-A startup connecting customers with trusted home-service professionals including electricians, plumbers, painters, cleaners, appliance technicians, and more.
-
-Worked closely with startup teams on outreach and product growth while gaining exposure to startup operations.
+**What I gained:** exposure to startup operations, customer/professional onboarding flows, growth strategy, and how technical decisions tie back to real user and business needs.
 
 ---
 
@@ -102,63 +74,110 @@ Worked closely with startup teams on outreach and product growth while gaining e
 
 ## 💎 Gemstone Classification using Deep Learning
 
-A deep learning-based image classification system developed to accurately identify **87 different gemstone categories** from images.
+A deep learning-based image classification system built to accurately identify **87 different gemstone categories** from images — a fine-grained classification problem where visually similar stones can be easy to confuse.
 
-The project involved experimenting with multiple deep learning architectures to understand how different models perform on the same dataset and to identify the most accurate approach for gemstone classification.
+Rather than settling on a single model, I treated this as a comparative study: training and evaluating multiple deep learning architectures on the same dataset to understand *why* certain models generalize better than others on fine-grained visual tasks.
 
 ### Key Features
-
 - 🔍 Classifies gemstones into **87 distinct categories**
 - 🧠 Implemented and compared multiple deep learning models
-- 📈 Evaluated model performance using accuracy and other evaluation metrics
-- ⚙️ Applied Transfer Learning and Fine-Tuning techniques to improve prediction performance
-- 📊 Analysed and compared the strengths and limitations of different architectures
-- 📝 Research paper currently under preparation based on the comparative study
+- 📈 Evaluated model performance using accuracy, precision, recall, and F1-score
+- ⚙️ Applied Transfer Learning and Fine-Tuning to boost prediction performance
+- 📊 Analysed the strengths and limitations of each architecture
+- 📝 Findings are being written up as a research paper
 
 ### Models Explored
-
-- CNN
+- CNN (baseline)
 - Xception
 - ResNet50V2
 
 ### What I Learned
-
-This project gave me hands-on experience with the complete deep learning workflow, including:
-
-- Image preprocessing and dataset preparation
-- Building and training CNN models
-- Transfer Learning
-- Fine-Tuning pre-trained models
-- Hyperparameter tuning
-- Evaluating model performance using accuracy, precision, recall and F1-score
-- Comparing different architectures to understand why some models outperform others
-- Interpreting training and validation results to improve model performance
+This project took me through the full deep learning workflow — image preprocessing and dataset preparation, building and training CNNs from scratch, applying transfer learning and fine-tuning pre-trained models, hyperparameter tuning, and interpreting training/validation curves to iteratively improve results. Most importantly, it taught me how to reason about *which* architecture suits a problem, not just how to train one.
 
 ### Impact
+Demonstrates how deep learning can automate gemstone identification, cutting down manual effort while improving classification accuracy, and provides a practical framework for choosing the right architecture on fine-grained image classification tasks.
 
-The project demonstrates how deep learning can automate gemstone identification, reducing manual effort while improving classification accuracy. It also provided valuable insights into selecting the most suitable architecture for fine-grained image classification tasks.
+---
 
-## 🥬 Vegetable Price Prediction Platform (Building)
-A location-aware machine learning platform that helps users estimate vegetable prices before making a purchase.
+## 🏨 Hostel Complaint Management System
 
-The platform collects **daily updated mandi (market) prices** from nearby wholesale markets and combines them with location-based information to provide accurate price predictions for users in their area.
+A web-based system built on the **Frappe Framework** that turns hostel complaint handling — usually scattered across texts and word-of-mouth — into a centralized, trackable workflow for both students and administrators.
+
+### Why Frappe
+I chose Frappe because it comes with the essentials of a real-world application out of the box — database management, authentication, user roles and permissions, forms, APIs, and an admin interface — so I could focus on designing the actual complaint workflow rather than rebuilding infrastructure from scratch. It also gave me hands-on experience with a framework purpose-built for ERP and business applications.
+
+### How It Works
+```
+Student submits complaint → Pending → Assigned to Admin → In Progress → Resolved
+```
+Students submit complaints with details like name, registration number, room number, category, and description. Administrators can then view, assign, and update the status of each complaint through to resolution.
 
 ### Key Features
+- Web form for submitting hostel complaints
+- Structured, categorized complaint storage in the database
+- Status tracking (Pending → In Progress → Resolved)
+- Complaint assignment to administrators
+- Role-based access and authentication
+- Admin management via Frappe Desk
 
-- 📍 Predicts vegetable prices based on the user's current location.
-- 📊 Uses daily updated mandi price data from local markets.
-- 🤖 Machine Learning model trained to estimate market trends.
-- 🗺️ Displays prices relevant to nearby markets instead of generic national averages.
-- 📈 Helps users understand price fluctuations over time.
-- 🔄 Continuously updates predictions as new market data becomes available.
+### Tech Stack
+`Frappe Framework` `Python` `JavaScript` `MariaDB` `Redis` `HTML/CSS` `Frappe Bench` `Git/GitHub`
 
-### Why this
+### What I Learned
+Building this end-to-end taught me how to create DocTypes, design web forms, manage users and permissions, and run and deploy an app with Frappe Bench — and, more broadly, how to turn a everyday real-world problem into a structured software workflow instead of a basic CRUD exercise.
 
-When people move to a new city or locality, they often don't know the fair market price of vegetables and may end up paying significantly more than the local rate.
+### Future Improvements
+Student-specific complaint visibility, email/status notifications, an admin dashboard with complaint statistics, image attachments, a more mobile-friendly interface, and analytics/reports.
 
-This platform helps users make informed purchasing decisions by providing estimated prices based on their location and the latest mandi data, making local markets more transparent and accessible.
+---
 
-Impact: Enables users—especially those who are new to a place—to quickly understand local vegetable prices using real-time mandi data and machine learning, helping them make smarter purchasing decisions.
+## 🌿 Telangana Mandi Price Finder
+
+**🔗 Live app:** [mandi-price-finder.streamlit.app](https://mandi-price-finder.streamlit.app)
+
+A Streamlit app that pulls **real, official mandi (market) prices** from across Telangana, so you know the fair price of a vegetable or fruit before you go shopping — instead of trusting whatever the vendor quotes.
+
+### Why I Built It
+Prices swing depending on the day, season, and market, and there's no easy baseline — especially if you're new to an area. This app fixes that: pick a commodity and a mandi, and see the actual minimum, maximum, and modal price reported that day, sourced directly from government data.
+
+### What It Does
+- Pulls **live** data from the Government of India's Open Data API on every search — no cached snapshots
+- Populates the market dropdown from real, current mandi names in the dataset
+- Shows the full min / modal / max price range, not just a single number
+- Falls back gracefully to the nearest available market record when exact data isn't available, and flags that it did so
+- Covers fruits, vegetables, pulses, and spices, with district, variety, grade, and reporting date
+
+### Tech Stack
+`Streamlit` `Python` `Requests` — powered by the **Agmarknet dataset** (Ministry of Agriculture & Farmers Welfare) via [data.gov.in](https://www.data.gov.in)'s Open Government Data API.
+
+### The Harder Parts (a.k.a. real debugging)
+- Requests were silently hanging — traced it to the API stalling on Python's default `requests` User-Agent, fixed with a browser-like header
+- The dataset's API resource ID had quietly changed after a data.gov.in migration — had to dig through their live catalog for the current endpoint
+- Actual API field names (`Market`, `Min_Price`, `Modal_Price`) didn't match the documented casing, so records were silently empty until diagnosed
+- Added retries and fast-failing timeouts so the app degrades gracefully instead of hanging when the government API is slow
+
+### Impact
+Makes local market prices transparent and accessible, especially useful for anyone new to a city who has no baseline for what's a fair price.
+
+---
+
+## 🥬 Vegetable Price Prediction Platform *(Building)*
+
+A location-aware machine learning platform that helps users estimate vegetable prices before making a purchase, by combining daily mandi price data with location-based signals.
+
+### Key Features
+- 📍 Predicts vegetable prices based on the user's current location
+- 📊 Uses daily updated mandi price data from local markets
+- 🤖 ML model trained to estimate market trends
+- 🗺️ Shows prices relevant to nearby markets instead of generic national averages
+- 📈 Helps users understand price fluctuations over time
+- 🔄 Continuously updates predictions as new market data comes in
+
+### Why This
+When people move to a new city, they often don't know the fair market price of vegetables and can end up overpaying. This platform helps users make informed purchasing decisions using real-time mandi data and machine learning.
+
+### Impact
+Enables users — especially those new to a place — to quickly understand local vegetable prices and make smarter purchasing decisions.
 
 ---
 
@@ -178,7 +197,7 @@ Impact: Enables users—especially those who are new to a place—to quickly und
 
 **Tools**
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` 
+`Git` `GitHub` `VS Code` `IntelliJ IDEA`
 
 ---
 
