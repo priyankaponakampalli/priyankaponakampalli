@@ -38,7 +38,7 @@ Beyond coding, I'm an active **public speaker** who has participated in **debate
 
 # Featured Experience
 
-## 🌱 Rythu Sadhikara Samstha (PavithraMithra) — Government of Andhra Pradesh *(Currently Working)*
+## 🌱 Rythu Sadhikara Samstha (PavithraMithra) — Government of Andhra Pradesh
 
 A cross-platform application connecting **farmers, buyers, sellers, and aggregators** in the natural farming ecosystem.
 
@@ -60,21 +60,20 @@ This helps buyers confidently purchase from verified farmers while promoting tra
 
 ---
 
-## 🏠 OnlyClick — Marketing & Growth, Startup
+## 🏠 OnlyClick — Marketing, Startup
 
-OnlyClick is a startup building a platform that connects customers with **trusted home-service professionals** — electricians, plumbers, painters, cleaners, appliance technicians, and more — making it easy to find and book verified help for everyday household needs.
-
-I worked on the **marketing and growth side** of the startup, helping the platform gain early traction from the ground up.
+OnlyClick connects customers with trusted home-service professionals (electricians, plumbers, painters, cleaners, appliance technicians, etc.).
 
 ### My Contributions
-- 📣 Drove **outreach and promotion** to build early awareness of the platform among target customers
-- 🤝 Worked on **onboarding service professionals** (electricians, plumbers, painters, etc.) onto the platform
-- 📈 Contributed to **growth strategy** for acquiring both customers and service providers in the early stage
-- 🧩 Collaborated closely with the founding team, gaining direct exposure to how a startup validates an idea and iterates based on real market feedback
-- 🗣️ Applied communication and public-speaking skills to pitch the platform and convert outreach into sign-ups
+- 📣 Led **outreach and promotion** to build early awareness among target customers
+- 🤝 Onboarded **service professionals** onto the platform
+- 📈 Contributed to **growth strategy** for acquiring customers and providers in the early stage
+- 🧩 Worked directly with the founding team on real-time market feedback and iteration
+- 🗣️ Used pitching and communication skills to convert outreach into sign-ups
 
 ### What I Gained
-Hands-on experience in **startup marketing and growth operations** — going beyond code to understand acquisition, onboarding, and how business decisions tie back to real users. It sharpened my ability to think about a product from the customer's side, not just the engineering side, which now shapes how I approach building software people actually want to use.
+- Hands-on **startup marketing & growth** experience
+- Understanding of acquisition, onboarding, and customer-first product thinking
 
 ---
 
