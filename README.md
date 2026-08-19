@@ -60,13 +60,21 @@ This helps buyers confidently purchase from verified farmers while promoting tra
 
 ---
 
-## 🏠 OnlyClick — Startup
+## 🏠 OnlyClick — Marketing & Growth, Startup
 
 OnlyClick is a startup building a platform that connects customers with **trusted home-service professionals** — electricians, plumbers, painters, cleaners, appliance technicians, and more — making it easy to find and book verified help for everyday household needs.
 
-I worked closely with the founding team on **outreach and product growth**, helping the platform gain early traction and onboard both service professionals and customers. This gave me a ground-level view of how a startup validates an idea, iterates on its offering, and grows from the ground up — experience that goes beyond just writing code and into understanding the product and the people it serves.
+I worked on the **marketing and growth side** of the startup, helping the platform gain early traction from the ground up.
 
-**What I gained:** exposure to startup operations, customer/professional onboarding flows, growth strategy, and how technical decisions tie back to real user and business needs.
+### My Contributions
+- 📣 Drove **outreach and promotion** to build early awareness of the platform among target customers
+- 🤝 Worked on **onboarding service professionals** (electricians, plumbers, painters, etc.) onto the platform
+- 📈 Contributed to **growth strategy** for acquiring both customers and service providers in the early stage
+- 🧩 Collaborated closely with the founding team, gaining direct exposure to how a startup validates an idea and iterates based on real market feedback
+- 🗣️ Applied communication and public-speaking skills to pitch the platform and convert outreach into sign-ups
+
+### What I Gained
+Hands-on experience in **startup marketing and growth operations** — going beyond code to understand acquisition, onboarding, and how business decisions tie back to real users. It sharpened my ability to think about a product from the customer's side, not just the engineering side, which now shapes how I approach building software people actually want to use.
 
 ---
 
